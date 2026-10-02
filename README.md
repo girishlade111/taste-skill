@@ -1,3 +1,7 @@
+> **Girish Lade's copy** — Portable Agent Skills (anti-slop frontend framework for AI agents), maintained by **Girish Lade**. Built by Girish Lade — [ladestack.in](https://ladestack.in)
+
+---
+
 <p align="center">
   <img src="assets/readme-banner.png" alt="Taste Skill — Anti-slop Agent Skills for premium frontends" width="100%" />
 </p>
